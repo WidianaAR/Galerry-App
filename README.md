@@ -17,5 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="./images/ss1.jpg" alt="List Page" width="200" />
 <img src="./images/ss2.jpg" alt="Detail Page" width="200" />
-[App Feature](./images/app-feature.mp4)
-[Web Responsive](./images/web-responsive.mp4)
+
+<h4>Demonstration Video</h4>
+
+- [App Feature](./images/app-feature.mp4)
+- [Web Responsive](./images/web-responsive.mp4)
