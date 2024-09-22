@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Screenshot
-![Screenshot](./images/ss1.jpg)
+<img src="./images/ss1.jpg" alt="List Page" width="400" />
