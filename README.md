@@ -15,10 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="./images/ss1.jpg" alt="List Page" width="200" />
-<img src="./images/ss2.jpg" alt="Detail Page" width="200" />
+<img src="./images/ss1.jpg" width="200"> &nbsp; <img src="./images/ss2.jpg" width="200">
 
-<h4>Demonstration Video</h4>
-
-- [App Feature](./images/app-feature.mp4)
-- [Web Responsive](./images/web-responsive.mp4)
+![gif1](https://github.com/user-attachments/assets/4ea9bccc-d029-4a3b-aef4-6c324ab5901f) &nbsp; ![gif2](https://github.com/user-attachments/assets/eb92f0d1-a30c-495f-9cd8-d39de02d2a21)
